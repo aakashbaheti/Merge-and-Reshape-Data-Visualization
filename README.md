@@ -1,6 +1,6 @@
 # Merge-and-Reshape-Data-Visualization
 
-This repository contains work for a problem set focused on analyzing and visualizing climate-related datasets. Using Python or R, the tasks involve merging and reshaping data to explore trends in atmospheric CO2, global surface temperatures, and lower troposphere temperatures. Additionally, there is an analysis of name popularity trends over time.
+This repository contains work for a problem set focused on analyzing and visualizing climate-related datasets. Using R, the tasks involve merging and reshaping data to explore trends in atmospheric CO2, global surface temperatures, and lower troposphere temperatures. Additionally, there is an analysis of name popularity trends over time.
 
 Key Objectives:
 
