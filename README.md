@@ -29,3 +29,7 @@ Plots and analyses for each task
 Learning Outcomes:
 
 This project demonstrates skills in data wrangling, merging datasets with varying time granularities, and creating meaningful visualizations to draw insights from real-world datasets.
+
+Sources: 
+
+https://www.tutorialspoint.com/r/r_basic_syntax.htm
